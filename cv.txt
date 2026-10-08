@@ -1,0 +1,42 @@
+YASH SHISHODIA
+
+Software Engineer | Full-Stack Developer | Data Science Student
+
+📍 India | 📧 [yashshishodia277@gmail.com] | 📱 [9258335993]
+
+
+
+PROFESSIONAL SUMMARY
+
+B.Tech student passionate about Software Engineering, Full-Stack Development, and AI/ML. Skilled in Python, C++, SQL, React, and modern web technologies, with a strong focus on building practical and impactful projects.
+
+EDUCATION
+
+SRM Institute of Science and Technology (SRMIST)
+B.Tech — Data Science
+CGPA: 8.42 | Expected Graduation:2028
+
+Class XII — 89.8%
+Class X — 90.8%
+
+TECHNICAL SKILLS
+
+Programming: C++, Python, JavaScript, SQL
+Frontend: HTML, CSS, React.js, Tailwind CSS
+Backend: Node.js, Express.js, Flask
+Databases: MongoDB, SQL
+Data Science & ML: NumPy, Pandas, Matplotlib, Scikit-learn
+Tools: Git, GitHub, VS Code
+
+PROJECTS
+RAG-Based AI Teaching Assistant
+Developed an AI-based teaching assistant that converts educational videos into text and analyzes the extracted content.
+Implemented a Retrieval-Augmented Generation (RAG) workflow to provide relevant answers based on video content.
+Designed the system to make lengthy educational content easier to search, understand, and interact with.
+Personal Portfolio Website
+
+React.js | HTML | CSS | JavaScript
+
+Developed a responsive personal portfolio website to showcase projects, technical skills, and achievements.
+Built reusable React components and responsive layouts for an improved user experience.
+Structured the website with a clean and professional design suitable for recruiters and clients.
